@@ -56,7 +56,7 @@ body {
   color: var(--text_dark);
   padding: 70px;
   background-image: linear-gradient(to right, rgba(221, 221, 47, 0.822) , rgba(167, 167, 135, 0.822));
-  border: 2px solid yellow;
+  
   
 }
 
